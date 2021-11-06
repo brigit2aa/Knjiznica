@@ -1,0 +1,6 @@
+D:\Brigita Perković\Konstrukcijska\StudentskiDom_Perkovic\StudentskiDom_Perkovic\bin\Debug\StudentskiDom_Perkovic.dll
+D:\Brigita Perković\Konstrukcijska\StudentskiDom_Perkovic\StudentskiDom_Perkovic\bin\Debug\StudentskiDom_Perkovic.pdb
+D:\Brigita Perković\Konstrukcijska\StudentskiDom_Perkovic\StudentskiDom_Perkovic\obj\Debug\StudentskiDom_Perkovic.csprojAssemblyReference.cache
+D:\Brigita Perković\Konstrukcijska\StudentskiDom_Perkovic\StudentskiDom_Perkovic\obj\Debug\StudentskiDom_Perkovic.csproj.CoreCompileInputs.cache
+D:\Brigita Perković\Konstrukcijska\StudentskiDom_Perkovic\StudentskiDom_Perkovic\obj\Debug\StudentskiDom_Perkovic.dll
+D:\Brigita Perković\Konstrukcijska\StudentskiDom_Perkovic\StudentskiDom_Perkovic\obj\Debug\StudentskiDom_Perkovic.pdb

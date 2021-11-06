@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentskiDom_Perkovic", "StudentskiDom_Perkovic\StudentskiDom_Perkovic.csproj", "{0D3AB263-2B68-4780-B1A6-21FDE78E7A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Studentski_Dom", "Studentski_Dom\Studentski_Dom.csproj", "{BD69CBE7-5D24-4CB6-94F7-4CD80F4CB08E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3AB263-2B68-4780-B1A6-21FDE78E7A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3AB263-2B68-4780-B1A6-21FDE78E7A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3AB263-2B68-4780-B1A6-21FDE78E7A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3AB263-2B68-4780-B1A6-21FDE78E7A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD69CBE7-5D24-4CB6-94F7-4CD80F4CB08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD69CBE7-5D24-4CB6-94F7-4CD80F4CB08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD69CBE7-5D24-4CB6-94F7-4CD80F4CB08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD69CBE7-5D24-4CB6-94F7-4CD80F4CB08E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD148466-B43B-475C-BC5F-61EB9DA89E20}
+	EndGlobalSection
+EndGlobal
